@@ -1,7 +1,7 @@
 public class check_Kth_bit {
     public static void main(String args[]){
-        int check=5;
-        int k=3;
+        int check=34894;
+        int k=13;
         //using left shift
         if((check&(1<<(k-1)))!=0)
             System.out.println("SET");
