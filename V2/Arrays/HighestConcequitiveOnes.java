@@ -19,5 +19,4 @@ public class HighestConcequitiveOnes {
         }
         return max_count;
     }
-
 }
